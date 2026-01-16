@@ -1,0 +1,57 @@
+# טריוויה ויזואלית — Generative Engine Optimization Map
+
+> A בידור ומשחקים business.
+
+---
+
+## Pages
+
+### בית
+https://-6fde5b17.zappy5.app
+טריוויה ויזואלית מציעה משחק ניחושים ויזואלי בעברית מרתק ומאתגר. בואו להנות ממשחק טריוויה מבוסס תמונות שמתאים לכל הגילאים!
+
+### משחקים
+https://-6fde5b17.zappy5.app/games
+גלו את מגוון משחקי הניחושים הויזואליים שלנו - משחק טריוויה מבוסס תמונות עם אתגרים מרתקים לכל רמות הקושי. התחילו לשחק עכשיו!
+
+### אודות
+https://-6fde5b17.zappy5.app/about
+גלו את הסיפור מאחורי טריוויה ויזואלית - איך יצרנו את משחק הניחושים הויזואלי הכי מהנה בעברית. למדו על החזון והמשימה שלנו.
+
+### צור קשר
+https://-6fde5b17.zappy5.app/contact
+יש לכם שאלות על משחק הניחושים הויזואלי שלנו? צרו איתנו קשר ונשמח לעזור! מלאו את הטופס או התקשרו אלינו עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6fde5b17.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6fde5b17.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6fde5b17.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טריוויה ויזואלית
+טריוויה ויזואלית is a business in the בידור ומשחקים industry.
+
+## Target Audience
+כלל הציבור - שחקנים שאוהבים אתגרי ניחושים ויזואליים
+
+## Industry
+בידור ומשחקים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6fde5b17.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6fde5b17.zappy5.app/robots.txt
